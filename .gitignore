@@ -1,0 +1,6 @@
+
+#ignoring node_modules files
+/node_modules
+#ignoring .pdf files if present
+*.pdf
+
